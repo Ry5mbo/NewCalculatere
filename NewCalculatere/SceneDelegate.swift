@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  NewCalculatere
 //
-//  Created by Анастасия on 25.10.2024.
+//  Created by Анастасия on 20.10.2024.
 //
 
 import UIKit
